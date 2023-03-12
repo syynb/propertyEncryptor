@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: utils.SendKeyUtil
+Class-Path: jasypt-spring-boot-2.0.0.jar jasypt-1.9.2.jar jasypt-spring-
+ boot-starter-2.0.0.jar
+
